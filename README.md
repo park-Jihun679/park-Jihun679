@@ -1,6 +1,6 @@
 ## 박지훈 깃허브
 
-Notion : https://www.notion.so/Backend-1f1f4070d67a80c6b7c0faf1c8af6e34
+Notion : https://www.notion.so/Backend-1f1f4070d67a80c6b7c0faf1c8af6e34  
 Velog : https://velog.io/@bellrock/posts
 
 <!--
